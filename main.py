@@ -1,0 +1,5 @@
+primeiro = input('Ditige um numero:')
+primeiro = int(primeiro)
+segundo = input('Digite outro numero:')
+segundo = int(segundo)
+print(primeiro + segundo)
